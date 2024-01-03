@@ -1,0 +1,89 @@
+.container-producto {
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 50px;
+}
+
+.titulo {
+    font-family: Roboto,sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.envio {
+    text-align: center;
+    background-color: #EF4011;
+    width: 120px;
+    border-radius: 3px;
+    padding: 3px 6px;
+    letter-spacing: .84px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: Roboto,sans-serif;
+    margin: 5px;
+    color: #fff;
+    display: block;
+}
+
+.precio {
+    display: block;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+
+.cantidad {
+    margin: 1rem 0;
+}
+
+.promocion {
+    display: block;
+    text-decoration: none;
+}
+
+.cuotas {
+    color: red;
+    margin: 5rem 0;
+}
+
+.talle {
+    font-size: 20px;
+    color: #838383;
+}
+
+.talle-numero {
+    display: flex;
+    padding: 0;
+}
+
+.talle-numero-item{
+    text-align: center;
+    list-style: none;
+    width: 40px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 5px;
+    padding: .25rem;
+    cursor: pointer;
+}
+
+.btn-carrito {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    width: 400px;
+    height: 50px;
+    background-color: #ED3237;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-favorito {
+    
+    font-size: 20px;
+    font-weight: 500;
+    width: 50px;
+    height: 50px;
+    border: none;
+    background-color: white;
+}

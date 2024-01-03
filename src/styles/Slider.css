@@ -1,0 +1,19 @@
+.slider{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.slider button {
+    border: none;
+    font-size: 40px;
+    background-color: white;
+    color: #8d8d8d;
+}
+
+.slider-item {
+    width: 500px;
+    height: auto;
+}
+
+

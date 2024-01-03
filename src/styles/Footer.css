@@ -1,0 +1,28 @@
+.container-footer {
+    background-color: #DBDBDB;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem 0;
+}
+
+
+.items {
+    padding: 0;
+}
+
+.items li{
+    margin: 1rem 0;
+    font-weight: 100;
+    list-style: none;
+    text-align: left;
+    cursor: pointer;
+}
+
+.atencion button {
+    background-color: #DBDBDB;
+    font-size: 14px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid black;
+}

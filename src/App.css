@@ -1,0 +1,24 @@
+* {
+    font-family: Roboto,sans-serif;
+}
+
+.producto {
+    display: flex;
+}
+
+body{
+    margin: 0;
+}
+
+.descripcion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #4b4b4bff;
+}
+
+.descripcion span {
+    width: 30%;
+    font-weight: 600;
+}
