@@ -20,7 +20,7 @@ function App() {
     <>
       <Nav />
       <div className="producto">
-        <Slider imagenes={img}/>
+        {/* <Slider imagenes={img}/> */}
         <Producto />
       </div>
       <div className="descripcion">
