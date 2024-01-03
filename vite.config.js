@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: process.env.NODE_ENV === 'production' ? '/AleMills.github.io/ecommerce/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/alemills.github.io/ecommerce/' : '/',
 })
 
 
